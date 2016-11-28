@@ -1,0 +1,13 @@
+﻿  testing.cpp
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\banner.main.ad.rit.edu\students\txk6171\igmprofile\documents\dsa2\hw2\hw2\testing.cpp(34): warning C4101: 'hn': unreferenced local variable
+  HW2.vcxproj -> \\banner.main.ad.rit.edu\students\txk6171\IGMProfile\Documents\DSA2\HW2\Debug\HW2.exe
+  HW2.vcxproj -> \\banner.main.ad.rit.edu\students\txk6171\IGMProfile\Documents\DSA2\HW2\Debug\HW2.pdb (Full PDB)
